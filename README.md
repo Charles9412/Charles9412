@@ -26,7 +26,19 @@ Real-time computer vision system for controlling a DJI Tello drone using hand ge
 - Command mapping
 - Physical drone testing
 
-### 3) [Customer Churn Analytics Story](https://github.com/Charles9412/customer-churn-tableau-story)
+### 3) [Digital Payments App Performance Dashboard](https://github.com/Charles9412/digital-payments-app-performance-dashboard)
+
+Power BI dashboard for monitoring synthetic digital payment app adoption, app operations, registered users, monthly app contracts, estimated hours saved, and regional adoption patterns.
+
+**Tech:** Power BI, DAX, Power Query, data visualization, synthetic data modeling  
+**Highlights:**
+- Executive KPI cards
+- Digital adoption and app activity metrics
+- Monthly contracts and registered user trends
+- Regional adoption map
+- Dark executive dashboard design
+
+### 4) [Customer Churn Analytics Story](https://github.com/Charles9412/customer-churn-tableau-story)
 Interactive Tableau story analyzing customer churn rate, churn reasons, payment type behavior, demographics, and customer service indicators.
 
 **Tech:** Tableau Public, BI storytelling, churn analysis  
