@@ -5,7 +5,7 @@ I build practical AI and data tools, including LLM-powered assistants, computer 
 
 ## Featured Projects
 
-### 1) Business Intelligence AI Assistant
+### 1) [Business Intelligence AI Assistant](https://github.com/Charles9412/business-intelligence-ai-assistant)
 Local-first RAG + SQL assistant for querying synthetic business documents and structured payment operations data.
 
 **Tech:** Python, FastAPI, React, SQLite, ChromaDB, SentenceTransformers, local LLM API  
@@ -16,7 +16,7 @@ Local-first RAG + SQL assistant for querying synthetic business documents and st
 - Generated SQL
 - Answer trace with sources and retrieved context
 
-### 2) Vision-Based Gesture Drone Controller
+### 2) [Vision-Based Gesture Drone Controller](https://github.com/Charles9412/VBGDC)
 Real-time computer vision system for controlling a DJI Tello drone using hand gestures.
 
 **Tech:** Python, OpenCV, DJI Tello SDK, computer vision  
@@ -26,7 +26,7 @@ Real-time computer vision system for controlling a DJI Tello drone using hand ge
 - Command mapping
 - Physical drone testing
 
-### 3) Customer Churn Analytics Story
+### 3) [Customer Churn Analytics Story](https://github.com/Charles9412/customer-churn-tableau-story)
 Interactive Tableau story analyzing customer churn rate, churn reasons, payment type behavior, demographics, and customer service indicators.
 
 **Tech:** Tableau Public, BI storytelling, churn analysis  
