@@ -53,6 +53,6 @@ Interactive Tableau story analyzing customer churn rate, churn reasons, payment 
 ## Contact / Links
 
 - GitHub: [Charles9412](https://github.com/Charles9412)
-- LinkedIn: _Add your LinkedIn URL_
-- Portfolio: _Add your portfolio URL_
-- Email: _Add your professional email_
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/carlos-eugenio-miranda-rocha-260151257/)
+- Portfolio: [Portfolio](https://github.com/Charles9412/portfolio)
+- Email: carlos_hierro@hotmail.com
